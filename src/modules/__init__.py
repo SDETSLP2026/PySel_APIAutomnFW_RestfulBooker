@@ -1,0 +1,2 @@
+def verfication():
+    return None

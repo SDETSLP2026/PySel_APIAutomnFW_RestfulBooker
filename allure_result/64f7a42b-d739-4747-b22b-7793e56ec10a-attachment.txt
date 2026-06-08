@@ -1,0 +1,3 @@
+[1m[31mERROR   [0m src.tests.crud.test_create_booking:test_create_booking.py:34 This is error log message.
+[33mWARNING [0m src.tests.crud.test_create_booking:test_create_booking.py:35 This is warning log message.
+[31mCRITICAL[0m src.tests.crud.test_create_booking:test_create_booking.py:38 This is critical log message.
